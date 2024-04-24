@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ayushitiwari01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, Front-End ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, Front-End 
 - 📫 How to reach me tiwariayushi0107@gmail.com
 - 😄 Pronouns: she/her
   
